@@ -1,0 +1,10 @@
+116	miRNA	42	43	type=4
+116	Genes	129	130	type=4
+11	miRNA	9	10	type=7
+11	Genes	168	169	type=7
+8	miRNA	9	10	type=7
+8	Genes	138	139	type=7
+61	miRNA	42	43	type=4
+61	Genes	236	237	type=4
+164	miRNA	57	58	type=3
+164	Genes	233	234	type=3

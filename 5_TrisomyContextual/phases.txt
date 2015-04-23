@@ -1,0 +1,4 @@
+chr	-	T13	T13	0	21	greys-6-seq-3
+chr	-	T18	T18	0	11	greys-6-seq-3
+chr	-	T21	T21	0	27	greys-6-seq-3
+chr	-	Pathway	Pathway	0	44	greys-6-seq-3

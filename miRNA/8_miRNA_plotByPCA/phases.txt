@@ -1,0 +1,4 @@
+chr	-	aCTB	aCTB	0	0	greys-6-seq-3
+chr	-	iCTB	iCTB	0	0	greys-6-seq-3
+chr	-	sCTB	sCTB	0	0	greys-6-seq-3
+chr	-	miRNA	miRNA	0	0	greys-6-seq-3

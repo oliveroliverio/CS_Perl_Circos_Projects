@@ -1,0 +1,18 @@
+# Gene labels on each phase. The coordinates
+# are in the range of the phase size, as
+# defined in phases.txt.
+#
+# For example, A is at 32/450 on Genes.
+#
+Genes  5 5 0 name=bitch,type=1
+Genes 25 25 0 name=B,type=1
+Genes 45 45 0 name=C,type=1
+Genes 55 55 0 name=D,type=1
+Genes 75 75 0 name=E,type=1
+Genes 25 25 0 name=F,type=1
+Genes  75 75 0 name=G,type=1
+miRNA 15 15 0 name=H,type=2
+miRNA 35 35 0 name=I,type=2
+miRNA 65 65 0 name=J,type=2
+
+

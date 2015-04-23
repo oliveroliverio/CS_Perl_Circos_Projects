@@ -1,0 +1,12 @@
+# phase lengths patterned after
+#
+# http://en.wikipedia.org/wiki/Cell_cycle
+#
+# G1  45%
+# S   35%
+# G2  15%
+# M   5%
+# 
+chr - Genes Genes 0 280 greys-6-seq-3
+chr - miRNA miRNA 0 81 greys-6-seq-3
+

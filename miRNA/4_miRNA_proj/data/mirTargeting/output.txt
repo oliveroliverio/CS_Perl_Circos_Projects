@@ -1,0 +1,9 @@
+hsa-let-7a	SERPINE2
+hsa-let-7a	FBXO47
+hsa-let-7a	PANK2
+hsa-let-7a	ZNF451
+hsa-let-7a	BCAT1
+hsa-let-7a	BTBD3
+hsa-let-7a	BTBD3
+hsa-let-7a	DMD
+hsa-let-7a	HIF1A

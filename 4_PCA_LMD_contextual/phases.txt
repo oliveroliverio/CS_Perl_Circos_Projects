@@ -1,0 +1,4 @@
+chr	-	iCTB	iCTB	0	67	greys-6-seq-3
+chr	-	cCTB	cCTB	0	72	greys-6-seq-3
+chr	-	sCTB	sCTB	0	11	greys-6-seq-3
+chr	-	Pathway	Pathway	0	54	greys-6-seq-3

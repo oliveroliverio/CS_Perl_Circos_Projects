@@ -1,0 +1,113 @@
+Pathways	AnalysisName	 -log(p-value)	Ratio	z-score	Molecules													
+Actin Cytoskeleton Signaling	cCTB	1.66	0.05	0	ARHGAP24	FN1	ITGA2	TRIO	TIAM1	PXN	DIAPH3	SSH2	PIK3CB	ITGA5	VAV2			
+Acute Phase Response Signaling	iCTB	7.56	0.08	3.162	JUN	MAP3K5	IL1B	CP	FGA	RBP4	FGG	PIK3CG	TNFRSF11B	APCS	FGB	C4BPA	VWF	C1S
+Adipogenesis pathway	cCTB	1.31	0.06	0	BMPR2	TGFB1	CDK7	CCRN4L	DLK1	LEP	PPARG							
+Altered T Cell and B Cell Signaling in Rheumatoid Arthritis	iCTB	4.28	0.09	0	TLR4	IL15	TNFSF13B	TLR7	IL1B	FCER1G	CCL21							
+Antioxidant Action of Vitamin C	cCTB	1.45	0.07	-2	SLC2A3	PLA2G16	PLA2G10	PLCL2	SLC2A1	HMOX1								
+Antiproliferative Role of TOB in T Cell Signaling	cCTB	2.34	0.15	0	TGFB1	CCNE1	SKP2	TGFB2										
+Aryl Hydrocarbon Receptor Signaling	iCTB	1.55	0.04	0	JUN	IL1B	ALDH1A1	GSTA1	CYP1B1									
+Atherosclerosis Signaling	iCTB	3.16	0.06	0	PDGFD	IL1B	APOD	CCL2	F3	RBP4	MMP1							
+Axonal Guidance Signaling	iCTB	1.7	0.03	0	PROK1	ABLIM3	FYN	PDGFD	ADAMTS5	WNT5A	SEMA3A	MYL9	PRKACB	PLCL1	PIK3CG			
+Bladder Cancer Signaling	iCTB	1.63	0.05	0	PROK1	FGF2	THBS1	MMP1										
+Caveolar-mediated Endocytosis Signaling	cCTB	1.44	0.07	0	FLNB	ITGB6	ITGA2	ITGA5	ITGB4									
+CCR3 Signaling in Eosinophils	sCTB	2.52	0.04	0	PLCB1	GNG11	MYLK	PLA2G2A										
+CCR5 Signaling in Macrophages	iCTB	2.09	0.06	0	JUN	CD3D	FCER1G	CCL4										
+CD28 Signaling in T Helper Cells	iCTB	3.35	0.07	2.236	JUN	LCP2	FYN	CD3D	PTPRC	FCER1G	PIK3CG							
+Cdc42 Signaling	cCTB	1.41	0.06	2.449	FOS	ITGA2	FNBP1L	HLA-G	DIAPH3	ITGA5	VAV2							
+Cell Cycle: G2/M DNA Damage Checkpoint Regulation	cCTB	2.03	0.1	-0.447	SFN	CDK7	SKP2	WEE1	CCNB1									
+Cellular Effects of Sildenafil (Viagra)	sCTB	3.28	0.04	0	PLCB1	GUCY1A2	GUCY1B3	MYLK	PDE5A									
+Chemokine Signaling	iCTB	2.75	0.07	2.236	JUN	CCL2	CCL13	CCL4	PIK3CG									
+Clathrin-mediated Endocytosis Signaling	iCTB	2.11	0.04	0	PROK1	PDGFD	APOD	ITGB8	FGF2	RBP4	PIK3CG							
+Coagulation System	iCTB	4.11	0.14	1.342	FGB	FGA	F3	VWF	FGG									
+Colorectal Cancer Metastasis Signaling	cCTB	1.36	0.05	2.828	FOS	NOS2	TGFB1	MMP2	TLR3	MMP12	TGFB2	JAK1	TCF7L2	PIK3CB	ADRBK2			
+Colorectal Cancer Metastasis Signaling	iCTB	2.02	0.03	2.828	TLR4	JUN	PROK1	TLR7	WNT5A	PRKACB	MMP1	PIK3CG						
+Communication between Innate and Adaptive Immune Cells	iCTB	4.35	0.09	0	TLR4	IL15	TNFSF13B	TLR7	IL1B	FCER1G	CCL4							
+Complement System	iCTB	7.85	0.22	1.134	C1QC	CFI	C5AR1	C4BPA	CFD	C1S	C3AR1	C1QA						
+Crosstalk between Dendritic Cells and Natural Killer Cells	iCTB	6.94	0.12	0	TLR4	IL15	CD226	TLR7	CD209	TYROBP	KIR2DL1	KIR2DL4	KLRC4-KLRK1	IL2RG				
+CTLA4 Signaling in Cytotoxic T Lymphocytes	iCTB	3.2	0.07	0	LCP2	FYN	CD3D	PTPN22	FCER1G	PIK3CG								
+Cyclins and Cell Cycle Regulation	cCTB	2.37	0.09	0	TGFB1	CDK7	CCNE1	SKP2	TGFB2	WEE1	CCNB1							
+Dendritic Cell Maturation	iCTB	2.97	0.05	0	TLR4	TNFRSF11B	IL15	IL1B	TYROBP	FCER1G	PLCL1	PIK3CG						
+Differential Regulation of Cytokine Production in Intestinal Epithelial Cells by IL-17A and IL-17F	iCTB	3.72	0.17	0	IL1B	DEFB1	CCL2	CCL4										
+Endothelin-1 Signaling	sCTB	1.91	0.02	0	PLCB1	GUCY1A2	GUCY1B3	PLA2G2A										
+Ephrin A Signaling	cCTB	1.42	0.08	0	EFNA4	EFNA1	PIK3CB	VAV2										
+Epithelial Adherens Junction Signaling	cCTB	1.45	0.06	0	SNAI1	BMPR2	TUBB6	JUP	MET	TGFB2	TCF7L2	VAV2						
+ERK/MAPK Signaling	cCTB	1.63	0.05	1.897	FOS	PLA2G10	ITGA2	ELF4	MYCN	PXN	PPARG	PIK3CB	ITGA5	EIF4EBP1				
+Extrinsic Prothrombin Activation Pathway	iCTB	4.38	0.25	2	FGB	FGA	F3	FGG										
+Factors Promoting Cardiogenesis in Vertebrates	cCTB	3.24	0.1	0	NPPB	BMPR2	BMP5	TGFB1	PRKD3	CCNE1	TGFB2	TCF7L2	NOG					
+FAK Signaling	cCTB	1.6	0.07	0	HMMR	CAPN6	ITGA2	PXN	PIK3CB	ITGA5								
+Fc Epsilon RI Signaling	iCTB	1.33	0.04	2	LCP2	FYN	FCER1G	PIK3CG										
+G-Protein Coupled Receptor Signaling	iCTB	1.78	0.03	0	FYN	CNR1	RGS2	P2RY14	PRKACB	AVPR1A	NPR3	PIK3CG						
+G-Protein Coupled Receptor Signaling	sCTB	1.31	0.02	0	PLCB1	APLNR	PDE5A	AGTR1										
+Glioblastoma Multiforme Signaling	iCTB	1.41	0.03	2.236	PDGFD	PDGFRA	WNT5A	PLCL1	PIK3CG									
+Glucocorticoid Receptor Signaling	iCTB	3.35	0.04	0	JUN	IL1B	CCL2	CD3D	CCL13	SLPI	PGR	PRKACB	MMP1	PIK3CG	FGG			
+Graft-versus-Host Disease Signaling	iCTB	2.82	0.1	0	IL1B	KIR2DL1	FCER1G	GZMB										
+Granulocyte Adhesion and Diapedesis	iCTB	5.19	0.07	0	C5AR1	C5AR1	CCL13	CCL2	CCL21	CCL23	CCL4	CCL4L1	FPR3	IL1B	MMP1	MYL9	TNFRSF11B	
+Granulocyte Adhesion and Diapedesis	cCTB	1.59	0.06	0	CLDN7	MMP2	ITGA2	MMP12	IL1RAP	IL1R2	CLDN19	SDC4	ITGA5					
+Hepatic Cholestasis	iCTB	2.39	0.04	0	TLR4	JUN	TNFRSF11B	LY96	CYP7B1	IL1B	PRKACB							
+HER-2 Signaling in Breast Cancer	cCTB	2.4	0.09	0	MMP2	ITGB6	PRKD3	CCNE1	ERBB3	PIK3CB	ITGB4							
+Hereditary Breast Cancer Signaling	cCTB	2.01	0.07	0	RFC3	SFN	FANCE	BRCA2	RAD51	PIK3CB	WEE1	CCNB1						
+HGF Signaling	cCTB	2.19	0.08	2.646	FOS	PRKD3	ITGA2	ELF4	MET	PXN	PIK3CB	ITGA5						
+HIF1 Signaling	iCTB	2.05	0.05	0	JUN	PROK1	EDN1	MMP1	PIK3CG									
+HIF1ÌÇå± Signaling	cCTB	1.79	0.07	0	NOS2	MMP2	SLC2A3	EGLN3	MMP12	SLC2A1	PIK3CB							
+HMGB1 Signaling	iCTB	2.39	0.05	2.236	TLR4	JUN	TNFRSF11B	IL1B	CCL2	PIK3CG								
+Human Embryonic Stem Cell Pluripotency	cCTB	1.63	0.06	0	BMPR2	INHBA	BMP5	TGFB1	TGFB2	TCF7L2	PIK3CB	NOG						
+Human Embryonic Stem Cell Pluripotency	iCTB	1.57	0.04	0	PDGFD	PDGFRA	WNT5A	FGF2	PIK3CG									
+iCOS-iCOSL Signaling in T Helper Cells	iCTB	2.79	0.06	2	LCP2	CD3D	PTPRC	FCER1G	IL2RG	PIK3CG								
+IGF-1 Signaling	cCTB	1.86	0.07	2	FOS	IGFBP1	SFN	PXN	JAK1	IGFBP3	PIK3CB							
+IGF-1 Signaling	iCTB	3.64	0.07	0	JUN	IGFBP4	IGFBP7	IGFBP2	IGFBP5	PRKACB	PIK3CG							
+IL-10 Signaling	cCTB	2.71	0.1	0	FOS	CCR1	IL1RAP	JAK1	IL1R2	HMOX1	IL10RA							
+IL-12 Signaling and Production in Macrophages	iCTB	1.61	0.04	0	TLR4	JUN	APOD	RBP4	PIK3CG									
+IL-15 Signaling	iCTB	2	0.06	0	IL15	AXL	IL2RG	PIK3CG										
+ILK Signaling	cCTB	1.66	0.06	2.121	FOS	FLNB	SNAI1	FN1	NOS2	ITGB6	DSP	PXN	PIK3CB	ITGB4				
+ILK Signaling	iCTB	1.55	0.03	2.449	JUN	PROK1	ITGB8	MYL9	MUC1	PIK3CG								
+Inhibition of Matrix Metalloproteases	cCTB	1.75	0.11	0	MMP2	MMP12	HSPG2	TFPI2										
+Interferon Signaling	cCTB	2.72	0.15	2.236	OAS1	IFIT1	MX1	JAK1	TAP1									
+Leukocyte Extravasation Signaling	cCTB	1.88	0.06	2.333	F11R	CLDN7	MMP2	PRKD3	ITGA2	MMP12	PXN	CLDN19	PIK3CB	ITGA5	VAV2			
+LPS-stimulated MAPK Signaling	iCTB	1.85	0.05	0	TLR4	JUN	MAP3K5	PIK3CG										
+LPS/IL-1 Mediated Inhibition of RXR Function	iCTB	1.81	0.03	2.236	TLR4	JUN	TNFRSF11B	LY96	IL1B	ALDH1A1	GSTA1							
+LXR/RXR Activation	iCTB	3.91	0.07	-2.121	TLR4	TNFRSF11B	LY96	IL1B	APOD	CCL2	FGA	RBP4						
+Macropinocytosis Signaling	cCTB	2.07	0.09	2	ITGB6	PRKD3	MET	PIK3CB	ITGA5	ITGB4								
+Mitotic Roles of Polo-Like Kinase	cCTB	1.62	0.08	0	TGFB1	PLK4	PLK2	WEE1	CCNB1									
+Natural Killer Cell Signaling	iCTB	9.18	0.13	0	KLRB1	KIR2DL1	KLRC3	FCER1G	KLRC1	HCST	PIK3CG	LCP2	FYN	KLRC2	TYROBP	KIR2DL4	KLRC4-KLRK1	
+NF-kB Signaling	iCTB	3.6	0.06	3	TLR4	TNFRSF11B	TNFSF13B	TLR7	IL1B	PDGFRA	FCER1G	PRKACB	PIK3CG					
+Nitric Oxide Signaling in the Cardiovascular System	sCTB	2.77	0.04	1	GUCY1A2	KDR	GUCY1B3	PDE5A										
+Nitric Oxide Signaling in the Cardiovascular System	iCTB	1.49	0.04	2	PLN	PROK1	PRKACB	PIK3CG										
+Ovarian Cancer Signaling	iCTB	1.61	0.04		PROK1	WNT5A	EDN1	PRKACB	PIK3CG									
+PAK Signaling	iCTB	1.61	0.05	2	PDGFD	PDGFRA	MYL9	PIK3CG										
+Pancreatic Adenocarcinoma Signaling	cCTB	2.19	0.08	0	TGFB1	CCNE1	TGFB2	JAK1	BRCA2	RAD51	PIK3CB	HMOX1						
+Paxillin Signaling	cCTB	1.37	0.06	2	ITGB6	ITGA2	PXN	PIK3CB	ITGA5	ITGB4								
+PDGF Signaling	iCTB	1.77	0.05	2	JUN	PDGFD	PDGFRA	PIK3CG										
+Phospholipases	cCTB	1.31	0.08	0	PLA2G16	PLA2G10	PLCL2	HMOX1										
+PI3K Signaling in B Lymphocytes	iCTB	2.3	0.05	0	TLR4	JUN	FYN	PTPRC	PLCL1	PIK3CG								
+PKC_ Signaling in T Lymphocytes	iCTB	3.32	0.06	0	JUN	LCP2	FYN	MAP3K5	CD3D	FCER1G	PIK3CG							
+PPAR Signaling	iCTB	2.25	0.06	-2.236	JUN	TNFRSF11B	PDGFD	IL1B	PDGFRA									
+Production of Nitric Oxide and Reactive Oxygen Species in Macrophages	iCTB	2.12	0.04	2.646	TLR4	JUN	TNFRSF11B	MAP3K5	APOD	RBP4	PIK3CG							
+Protein Kinase A Signaling	sCTB	1.31	0.01	0	PLCB1	GNG11	PTPRD	MYLK	PDE5A									
+RAR Activation	iCTB	2.19	0.04	0	JUN	MAP3K5	ALDH1A1	RBP4	PRKACB	MMP1	PIK3CG							
+Regulation of Cellular Mechanics by Calpain Protease	cCTB	1.82	0.09	0	CCNE1	CAPN6	ITGA2	PXN	ITGA5									
+Relaxin Signaling	sCTB	2.24	0.03	0	GUCY1A2	GNG11	GUCY1B3	PDE5A										
+Renal Cell Carcinoma Signaling	cCTB	2.04	0.09	0	FOS	TGFB1	EGLN3	MET	SLC2A1	PIK3CB								
+Renin-Angiotensin Signaling	iCTB	1.92	0.05	2.236	JUN	CCL2	PRKACB	REN	PIK3CG									
+Role of BRCA1 in DNA Damage Response	cCTB	1.57	0.08	2	BRIP1	RFC3	FANCE	BRCA2	RAD51									
+Role of Hypercytokinemia/hyperchemokinemia in the Pathogenesis of Influenza	iCTB	2.74	0.1	0	IL15	IL1B	CCL2	CCL4										
+"Role of Macrophages, Fibroblasts and Endothelial Cells in Rheumatoid Arthritis"	cCTB	1.4	0.05	0	F2RL1	TGFB1	PRKD3	SFRP1	IL1R2	PIK3CB	FOS	FN1	NOS2	TLR3	IL1RAP	PLCL2	TCF7L2	
+Role of NFAT in Regulation of the Immune Response	iCTB	1.79	0.04	2.449	JUN	LCP2	FYN	CD3D	FCER1G	PIK3CG								
+Role of Pattern Recognition Receptors in Recognition of Bacteria and Viruses	cCTB	1.86	0.07	2	OAS1	TGFB1	TLR3	PRKD3	IFIH1	OAS3	TGFB2	PIK3CB						
+Role of Pattern Recognition Receptors in Recognition of Bacteria and Viruses	iCTB	3.83	0.07	2.646	TLR4	C1QC	TLR7	IL1B	C5AR1	C3AR1	PIK3CG	C1QA						
+Role of Tissue Factor in Cancer	iCTB	4.16	0.07	0	FYN	IL1B	FGB	FGA	F3	MMP1	PIK3CG	FGG						
+SAPK/JNK Signaling	iCTB	1.58	0.05	2	JUN	MAP3K5	FCER1G	PIK3CG										
+Sertoli Cell-Sertoli Cell Junction Signaling	cCTB	1.39	0.05	0	F11R	CLDN7	NOS2	TUBB6	ITGA2	JUP	CLDN19	ITGA5	RAB8B					
+Sperm Motility	sCTB	2.49	0.04	2	PLCB1	GUCY1A2	GUCY1B3	PLA2G2A										
+Sphingosine-1-phosphate Signaling	iCTB	1.3	0.04	2	PDGFD	PDGFRA	PLCL1	PIK3CG										
+Synaptic Long Term Depression	sCTB	2.22	0.03	2	PLCB1	GUCY1A2	GUCY1B3	PLA2G2A										
+Systemic Lupus Erythematosus Signaling	iCTB	2.6	0.04	0	JUN	TNFSF13B	TLR7	IL1B	CD3D	PTPRC	FCER1G	PIK3CG						
+Tec Kinase Signaling	cCTB	1.36	0.05	2.646	FOS	PRKD3	ITGA2	TNFSF10	JAK1	PIK3CB	ITGA5	VAV2						
+TGF-b Signaling	cCTB	1.55	0.07	1.633	FOS	BMPR2	INHBA	TGFB1	TGFB2	INHA								
+Toll-like Receptor Signaling	iCTB	2.67	0.07	2.236	TLR4	JUN	LY96	TLR7	IL1B									
+TR/RXR Activation	iCTB	1.63	0.05	0	ME1	FGA	KLF9	PIK3CG										
+TR/RXR Activation	cCTB	1.6	0.07	0	PFKP	SLC2A1	PIK3CB	DIO2	SLC16A3	THRB								
+TREM1 Signaling	iCTB	2.72	0.07	2.236	TLR4	TLR7	IL1B	CCL2	TYROBP									
+Type I Diabetes Mellitus Signaling	iCTB	2.75	0.06	0	TNFRSF11B	MAP3K5	IL1B	CD3D	FCER1G	GZMB								
+UVB-Induced MAPK Signaling	cCTB	1.31	0.08	2	FOS	PRKD3	PIK3CB	EIF4EBP1										
+VEGF Family Ligand-Receptor Interactions	cCTB	1.35	0.07	2.236	FOS	PLA2G10	PRKD3	FLT1	PIK3CB									
+Virus Entry via Endocytic Pathways	cCTB	2.08	0.08	0	FLNB	ITGB6	PRKD3	ITGA2	PIK3CB	ITGA5	ITGB4							
